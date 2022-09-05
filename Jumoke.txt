@@ -1,5 +1,0 @@
-Name : Jumoke Shalom
-
-Cohort : 1.3
-
-Track : SWE(Frontend Development)
